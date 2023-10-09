@@ -4,6 +4,9 @@
 
 This is a simple yet powerful audio player built using Next.js and TailwindCSS. It's designed to provide a seamless audio playback experience with a clean and intuitive UI. The audio player is also compatible with React, making it versatile and easy to integrate into various web projects.
 
+![ezgif com-video-to-gif](https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/2042704c-ba7f-4b50-a423-27bb51458360)
+
+
 ## Features
 
 #### Basic Playback Controls
@@ -25,6 +28,10 @@ This is a simple yet powerful audio player built using Next.js and TailwindCSS. 
 ## Installation and Usage
 
 ### Creating a New Project Based on the Audio Player
+
+
+https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/d223e07f-a78f-4a8f-acf7-d2af24165e29
+
 
 1. **Clone the Repository**
     ```bash
@@ -64,6 +71,10 @@ This is a simple yet powerful audio player built using Next.js and TailwindCSS. 
 5. **Add Songs**
     ```javascript
     // Example list of songs
+
+https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/8aa549fd-b5dc-4e4c-a568-fe2590d6ee6f
+
+
     const songs = useMemo(
       () => [
         {
