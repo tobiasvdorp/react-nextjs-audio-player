@@ -32,7 +32,7 @@ https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/8aa549
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/tobiasvdorp/nextjs-audio-player.git
+    git clone https://github.com/tobiasvdorp/react-nextjs-audio-player.git
     ```
 2. **Install Dependencies**
     ```bash
@@ -46,9 +46,9 @@ https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/8aa549
 ### Integrating the Audio Player into an Existing Project
 
 1. **Copy Components**
-    - [`AudioPlayer.js`](https://github.com/tobiasvdorp/nextjs-audio-player/blob/main/nextjs-audio-player/src/components/AudioPlayer.js)
-    - [`BottomUI.js`](https://github.com/tobiasvdorp/nextjs-audio-player/blob/main/nextjs-audio-player/src/components/BottomUI.js)
-    - [`Song.js`](https://github.com/tobiasvdorp/nextjs-audio-player/blob/main/nextjs-audio-player/src/components/Song.js)
+    - [`AudioPlayer.js`](https://github.com/tobiasvdorp/react-nextjs-audio-player/blob/main/react-nextjs-audio-player/src/components/AudioPlayer.js)
+    - [`BottomUI.js`](https://github.com/tobiasvdorp/react-nextjs-audio-player/blob/main/react-nextjs-audio-player/src/components/BottomUI.js)
+    - [`Song.js`](https://github.com/tobiasvdorp/react-nextjs-audio-player/blob/main/react-nextjs-audio-player/src/components/Song.js)
 
 2. **Install Dependencies**
     ```bash
