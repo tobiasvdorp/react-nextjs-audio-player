@@ -10,17 +10,10 @@ module.exports = {
 
   theme: {
     colors: {
-      // Darkmode
-      background_dark: "#00000F",
-      primary_dark: "#207EC5",
-      secondary_dark: "#072640",
-      accent_dark: "#4D96E0",
-
-      // Lightmode
-      background: "#F6FAFE",
-      primary: "#3A97DF",
+      background: "#00000F",
+      primary: "#207EC5",
       secondary: "#072640",
-      accent: "#1F69B2",
+      accent: "#4D96E0",
 
       // Text
       black: "#00000F",

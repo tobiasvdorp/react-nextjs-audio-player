@@ -9,5 +9,5 @@
 }
 
 button.playing {
-  @apply bg-primary dark:bg-primary_dark text-white dark:text-white border-none rounded-md font-semibold px-10 text-lg normal-case;
+  @apply bg-primary text-white border-none rounded-md font-semibold px-10 text-lg normal-case;
 }
