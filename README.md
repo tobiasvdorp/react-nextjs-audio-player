@@ -30,9 +30,6 @@ https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/8aa549
 ### Creating a New Project Based on the Audio Player
 
 
-https://github.com/tobiasvdorp/react-nextjs-audio-player/assets/113168391/d223e07f-a78f-4a8f-acf7-d2af24165e29
-
-
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/tobiasvdorp/nextjs-audio-player.git
