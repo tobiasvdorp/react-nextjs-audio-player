@@ -3,6 +3,7 @@ import Song from "./Song";
 import BottomUI from "./BottomUI";
 
 const AudioPlayer = () => {
+  // Example list of songs
   const songs = useMemo(
     () => [
       {
@@ -17,6 +18,21 @@ const AudioPlayer = () => {
       },
       {
         id: "3",
+        title: "Jaibafles",
+        src: "/jaibafles.mp3",
+      },
+      {
+        id: "4",
+        title: "Flute",
+        src: "/flute.wav",
+      },
+      {
+        id: "5",
+        title: "Flute wooden",
+        src: "/flute-wooden.wav",
+      },
+      {
+        id: "6",
         title: "Jaibafles",
         src: "/jaibafles.mp3",
       },
